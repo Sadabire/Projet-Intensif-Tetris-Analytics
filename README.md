@@ -1,13 +1,13 @@
 # TETRIS Analytics — Projet Intensif BUT Science des Données
 
-> Projet réalisé en 5 jours · IUT Clermont Auvergne (Aurillac) · Promo 2026  
+> Projet réalisé en 4 jours · IUT Clermont Auvergne (Aurillac) · Promo 2026  
 > Pipeline complet : système embarqué → collecte de données → API REST → dashboard IA
 
 ---
 
 ## Contexte
 
-Projet intensif de 5 jours impliquant toute la promotion. L'objectif était de construire
+Projet intensif de 4 jours impliquant toute la promotion. L'objectif était de construire
 un **système de bout en bout** : du jeu Tetris tournant sur Linux embarqué jusqu'à un
 tableau de bord analytique avec modèles prédictifs.
 
@@ -121,9 +121,14 @@ BASE_URL <- "http://adresse-api:8000"
 
 ## Aperçu
 
-<!-- Ajoutez vos captures d'écran ici -->
-<!-- ![Dashboard](docs/dashboard_preview.png) -->
-<!-- ![Prédictions](docs/predictions_preview.png) -->
+### Page d'accueil
+![Accueil](docs/apercu_accueil.png)
+
+### Vue générale — Scores par partie
+![Vue générale](docs/apercu_vue_generale.png)
+
+### Progression
+![Progression](docs/apercu_progression.png)
 
 ---
 
